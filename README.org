@@ -1,0 +1,6 @@
+* Todo
+  - [ ] Get dump based on id
+  - [ ] Static file serving for viewing raw log files
+  - [ ] Upload of dump
+  - [ ] List log files uploaded by a user
+  - [ ] List all logs files
